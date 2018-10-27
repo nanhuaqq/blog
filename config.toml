@@ -1,0 +1,4 @@
+baseURL = "https://nanhuaqq.github.io"
+languageCode = "en-us"
+title = "nanhuaqq's blog"
+theme = "ananke"
